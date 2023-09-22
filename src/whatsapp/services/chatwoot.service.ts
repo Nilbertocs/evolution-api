@@ -211,8 +211,8 @@ export class ChatwootService {
         '123456',
         inboxId,
         false,
-        'EvolutionAPI',
-        'https://evolution-api.com/files/evolution-api-favicon.png',
+        'Gerador QRCode',
+        'https://i.imgur.com/TtiL5tE.png',
       )) as any);
 
     if (!contact) {
